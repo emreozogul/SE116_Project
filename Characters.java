@@ -1,0 +1,7 @@
+interface Characters {
+
+    void move();
+
+
+
+}
